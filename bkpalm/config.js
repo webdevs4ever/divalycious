@@ -2,12 +2,12 @@ module.exports = {
   siteTitle: 'Gatsby Starter Readonly', // <title>
   manifestName: 'Readonly',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://brooklynpalm.com',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-readonly/`, // This path is subpath of your hosting https://domain/portfolio
+  // pathPrefix: `/gatsby-starter-readonly/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Davoria Cooper',
   heading: "Future home of Brooklyn Palm",
   // social

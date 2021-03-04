@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Gatsby Starter Readonly', // <title>
   manifestName: 'Readonly',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: 'https://brooklynpalm.com',
+  manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',

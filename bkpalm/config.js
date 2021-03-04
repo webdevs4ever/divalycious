@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  // pathPrefix: `/gatsby-starter-readonly/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/bkpalm`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Davoria Cooper',
   heading: "Future home of Brooklyn Palm",
   // social

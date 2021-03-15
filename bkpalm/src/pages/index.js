@@ -10,7 +10,7 @@ import banner from '../assets/images/banner.jpg';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
-
+// Testing RTF in the file
 const sections = [
   { id: 'one', name: 'About' },
   { id: 'two', name: 'Things I Can Do' },

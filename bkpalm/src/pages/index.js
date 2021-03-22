@@ -31,7 +31,7 @@ const IndexPage = () => (
             <header className="major">
               <h2>Brooklyn Palm</h2>
               <p>
-              <a href="https://www.linkedin.com/in/davoria-cooper-26765712a/">Future home of Brooklyn Palm...</a>.
+              <a href="https://www.linkedin.com/in/davoria-cooper-26765712a/">Under Construction...</a>.
               </p>
             </header>
             <p>
